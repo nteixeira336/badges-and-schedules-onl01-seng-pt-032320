@@ -13,7 +13,7 @@ end
 
 def assign_rooms(list_of_speakers)
   room_assignments=[]
-  list_of_speakers.each_with_index 
+  list_of_speakers.each_with_index |speaker,index| 
   
   
 end 
